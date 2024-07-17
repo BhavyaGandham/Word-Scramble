@@ -12,7 +12,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #5372F0;
+  background: black;
 }
 .container{
   width: 440px;
@@ -87,16 +87,16 @@ body{
   transform: scale(0.97);
 }
 .buttons .refresh-word{
-  background: #6C757D;
+  background: black;
 }
 .buttons .refresh-word:hover{
   background: #5f666d;
 }
 .buttons .check-word{
-  background: #5372F0;
+  background: black;
 }
 .buttons .check-word:hover{
-  background: #2c52ed;
+  background: #5f666d;
 }
 
 @media screen and (max-width: 470px) {
